@@ -1,0 +1,71 @@
+<quiz>
+  <title>El Juego</title>
+    <items>
+      <item>
+        <question>"Hacer justicia es entender que unos merecen vencer y otros merecen ser derrotados"</question>
+        <imagen>http://www.eljueves.es/medio/2017/04/11/test-aznar-freezer_6983ce87.jpg</imagen>
+        <answer correct="y">Aznar</answer>
+        <answer>Freezer</answer>
+      </item>
+      <item>
+        <question>"Yo sólo confío en mí mismo"</question>
+        <imagen>http://www.eljueves.es/medio/2017/04/11/freezer-cyborg_134d2ade.jpg</imagen>
+        <answer correct="y">Aznar</answer>
+        <answer>Freezer</answer>
+      </item>		
+      <item>
+        <question>"Te recomiendo que seas honesto conmigo"</question>
+        <imagen>http://www.eljueves.es/medio/2017/04/11/aznar-azul_acc2e2b6.jpg</imagen>
+        <answer>Aznar</answer>
+        <answer correct="y">Freezer</answer>
+      </item>
+      <item>
+        <question>"¡Yo soy el milagro!"</question>
+        <imagen>http://www.eljueves.es/medio/2017/04/11/freezer-final_37f8cb39.jpg</imagen>
+        <answer correct="y">Aznar</answer>
+        <answer>Freezer</answer>
+      </item>
+      <item>
+        <question>"Me encanta inspirarme el silencio. Sus resultados siempre son maravillosos"</question>
+        <imagen>http://www.eljueves.es/medio/2017/04/11/aznar-silencio_48ff7524.jpg</imagen>
+        <answer correct="y">Aznar</answer>
+        <answer>Freezer</answer>
+      </item>
+      <item>
+        <question>"¿Acaso creen que voy a perdonarlos?"</question>
+        <imagen>http://www.eljueves.es/medio/2017/04/11/freezer-perdon_072193a8.png</imagen>
+        <answer>Aznar</answer>
+        <answer correct="y">Freezer</answer>
+      </item>
+      <item>
+        <question>"La cualidad de estos sujetos es fastidiar a las personas"</question>
+        <imagen>http://www.eljueves.es/medio/2017/04/11/aznar-bola_e1dd6bdc.jpg</imagen>
+        <answer>Aznar</answer>
+        <answer correct="y">Freezer</answer>
+      </item>
+      <item>
+        <question>"No están en desiertos remotos o montañas lejanas"</question>
+        <imagen>http://www.eljueves.es/medio/2017/04/11/freezer-nave_bc6c386b.jpg</imagen>
+        <answer correct="y">Aznar</answer>
+        <answer>Freezer</answer>
+      </item>
+      <item>
+        <question>"Este elemento no debe ser alterado substancialmente por el hombre"</question>
+        <imagen>http://www.eljueves.es/medio/2017/04/11/aznar-malo_067f3d99.jpg</imagen>
+        <answer correct="y">Aznar</answer>
+        <answer>Freezer</answer>
+      </item>
+      <item>
+        <question>"El dolor que sentirán será peor que estar en el infierno"</question>
+        <imagen>http://www.eljueves.es/medio/2017/04/11/freezer-inicio_08d9d852.jpg</imagen>
+        <answer>Aznar</answer>
+        <answer  correct="y">Freezer</answer>
+      </item>
+      <item>
+        <question>"Ya fue suficiente. Haré pedazos a este planeta"</question>
+        <imagen>http://www.eljueves.es/medio/2017/04/11/aznar-planeta_5d606c83.jpg</imagen>
+        <answer>Aznar</answer>
+        <answer  correct="y">Freezer</answer>
+      </item>
+    </items>
+</quiz>
