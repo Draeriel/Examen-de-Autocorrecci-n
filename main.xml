@@ -5,67 +5,78 @@
         <question>"Hacer justicia es entender que unos merecen vencer y otros merecen ser derrotados"</question>
         <imagen>http://www.eljueves.es/medio/2017/04/11/test-aznar-freezer_6983ce87.jpg</imagen>
         <answer correct="y">Aznar</answer>
-        <answer>Freezer</answer>
+        <answer correct="n">Freezer</answer>
+        <respuesta>Esta frase la dijo Aznar. Hacía referencia al terrorismo, pero no a Bankia. Ni a Francisco Camps. Ni a la infanta Cristina. Ni...</respuesta>
       </item>
       <item>
         <question>"Yo sólo confío en mí mismo"</question>
         <imagen>http://www.eljueves.es/medio/2017/04/11/freezer-cyborg_134d2ade.jpg</imagen>
         <answer correct="y">Aznar</answer>
-        <answer>Freezer</answer>
+        <answer correct="n">Freezer</answer>
+        <respuesta>Otra frase de malvado super villano. Evidentemente, es de Aznar. La pronunció en una entrevista en el Financial Times durante su etapa de presidente español.</respuesta>
       </item>		
       <item>
         <question>"Te recomiendo que seas honesto conmigo"</question>
         <imagen>http://www.eljueves.es/medio/2017/04/11/aznar-azul_acc2e2b6.jpg</imagen>
-        <answer>Aznar</answer>
+        <answer correct="n">Aznar</answer>
         <answer correct="y">Freezer</answer>
+        <respuesta>Se lo advirtió Freezer a su súbdito Vegeta en Namek, pero tranquilamente se lo podría haber dicho Aznar a Rajoy.</respuesta>
       </item>
       <item>
         <question>"¡Yo soy el milagro!"</question>
         <imagen>http://www.eljueves.es/medio/2017/04/11/freezer-final_37f8cb39.jpg</imagen>
         <answer correct="y">Aznar</answer>
-        <answer>Freezer</answer>
+        <answer correct="n">Freezer</answer>
+        <respuesta>Lo afirmó Aznar en The Wall Street Journal durante la hipotética recuperación económica española. Era un hombre en su apogeo, con flequillo y bigotazo. ¡Y esa ni siquiera era su forma final!</respuesta>
       </item>
       <item>
         <question>"Me encanta inspirarme el silencio. Sus resultados siempre son maravillosos"</question>
         <imagen>http://www.eljueves.es/medio/2017/04/11/aznar-silencio_48ff7524.jpg</imagen>
         <answer correct="y">Aznar</answer>
-        <answer>Freezer</answer>
+        <answer correct="n">Freezer</answer>
+        <respuesta>Lo afirmó Aznar en 1999. Quizás rodeado por los cadáveres de sus enemigos.</respuesta>
       </item>
       <item>
         <question>"¿Acaso creen que voy a perdonarlos?"</question>
         <imagen>http://www.eljueves.es/medio/2017/04/11/freezer-perdon_072193a8.png</imagen>
-        <answer>Aznar</answer>
+        <answer correct="n">Aznar</answer>
         <answer correct="y">Freezer</answer>
+        <respuesta>¿Aznar hablando de terrorismo? ¿De podemitas? ¿De independentistas? Pues no. Es Freezer amenazando a los sayans.</respuesta>
       </item>
       <item>
         <question>"La cualidad de estos sujetos es fastidiar a las personas"</question>
         <imagen>http://www.eljueves.es/medio/2017/04/11/aznar-bola_e1dd6bdc.jpg</imagen>
-        <answer>Aznar</answer>
+        <answer correct="n">Aznar</answer>
         <answer correct="y">Freezer</answer>
+        <respuesta>Igual que en la anterior pregunta, es Freezer hablando sobre lo molestos que le resultan los sayans.</respuesta>
       </item>
       <item>
         <question>"No están en desiertos remotos o montañas lejanas"</question>
         <imagen>http://www.eljueves.es/medio/2017/04/11/freezer-nave_bc6c386b.jpg</imagen>
         <answer correct="y">Aznar</answer>
-        <answer>Freezer</answer>
+        <answer correct="n">Freezer</answer>
+        <respuesta>Lo dijo Aznar de los autores del atentado del 11-M. No los encontraría ni aunque dispusiera de rastreador para medir su fuerza.</respuesta>
       </item>
       <item>
         <question>"Este elemento no debe ser alterado substancialmente por el hombre"</question>
         <imagen>http://www.eljueves.es/medio/2017/04/11/aznar-malo_067f3d99.jpg</imagen>
         <answer correct="y">Aznar</answer>
-        <answer>Freezer</answer>
+        <answer correct="n">Freezer</answer>
+        <respuesta>Aznar lo dijo en una revista sobre ecología. En ese momento estaba en contra de modificar el curso de los ríos españoles. Luego llevó a cabo el Plan Hidrológico Nacional.</respuesta>
       </item>
       <item>
         <question>"El dolor que sentirán será peor que estar en el infierno"</question>
         <imagen>http://www.eljueves.es/medio/2017/04/11/freezer-inicio_08d9d852.jpg</imagen>
-        <answer>Aznar</answer>
-        <answer  correct="y">Freezer</answer>
+        <answer correct="n">Aznar</answer>
+        <answer correct="y">Freezer</answer>
+        <respuesta>Freezer amenazando a sus enemigos. Solo hay una cosa peor que estar en el infierno. Estar en ESPAÑA.</respuesta>
       </item>
       <item>
         <question>"Ya fue suficiente. Haré pedazos a este planeta"</question>
         <imagen>http://www.eljueves.es/medio/2017/04/11/aznar-planeta_5d606c83.jpg</imagen>
-        <answer>Aznar</answer>
-        <answer  correct="y">Freezer</answer>
+        <answer correct="n">Aznar</answer>
+        <answer correct="y">Freezer</answer>
+        <respuesta>Esta frase de momento solo la ha pronunciado Freezer antes de intentar destruir Namek. Es posible que Aznar la pronuncie en breve.</respuesta>
       </item>
     </items>
 </quiz>
